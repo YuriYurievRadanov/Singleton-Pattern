@@ -1,0 +1,7 @@
+D:\InterviewS\PREPARING\SingletonPattern\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\SingletonPattern\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+D:\InterviewS\PREPARING\SingletonPattern\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+D:\InterviewS\PREPARING\SingletonPattern\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.exe
+D:\InterviewS\PREPARING\SingletonPattern\SingletonPattern\SingletonPattern\bin\Debug\SingletonPattern.pdb
+D:\InterviewS\PREPARING\SingletonPattern\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.exe
+D:\InterviewS\PREPARING\SingletonPattern\SingletonPattern\SingletonPattern\obj\Debug\SingletonPattern.pdb
